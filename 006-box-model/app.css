@@ -1,0 +1,44 @@
+body {
+  background: #222;
+  color: white;
+}
+
+
+img {
+  max-width: 100%;
+}
+/* Code Under This Line */
+
+/*
+  Colors:
+  #FFED5D
+  #FF7050
+  #222
+  #7BBADE
+*/
+.d {
+	background-color: blue;
+	margin: 20px;
+	height: 50px;
+}
+.c {
+	background-color: black;
+	margin: 20px;
+	height: 100px;
+}
+.b {
+	background-color: orange;
+	margin: 20px;
+	height: 160px;
+}
+.a {
+	background-color: yellow;
+	margin: 30px;
+	height: 220px;
+}
+.box-model {
+	width: 50%;
+	position: relative;
+	margin-left: 325px;
+	width: 55%;
+}
